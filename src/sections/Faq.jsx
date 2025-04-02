@@ -1,7 +1,6 @@
 import { useState } from "react";
 import {  usdtLogo } from "../assets/icons";
 import { contractAddy } from "../constants";
-import "./preline.js";
 
 // AccordionItem component
 const AccordionItem = ({ title, content }) => {

@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@material-tailwind/html": "^2.2.2",
@@ -18,13 +17,15 @@
     "@react-spring/parallax": "^9.7.3",
     "@react-spring/web": "^9.7.3",
     "@tailwindcss/postcss7-compat": "^2.2.17",
+    "autoprefixer": "^10.4.19",
     "framer-motion": "^11.0.25",
-    "gsap": "^3.12.5",
-    "preline": "^2.1.0",
+    "postcss": "^8.4.0",
+    "preline": "^3.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.0.1",
-    "react-reveal": "^1.2.2"
+    "react-reveal": "^1.2.2",
+    "vercel": "^32.7.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",

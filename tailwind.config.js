@@ -4,15 +4,11 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
     './node_modules/preline/dist/*.js'
-
-  
-
   ],
   theme: {
     extend: {
       fontFamily: {
         'mons': ['Montserrat','arial'],
-        
       },
       colors: {
         'custom-color': '#030304',
@@ -23,10 +19,7 @@ export default {
       },
     },
   },
-  plugins: [
-    require('preline/plugin'),
 
-  ],
 }
 
 
